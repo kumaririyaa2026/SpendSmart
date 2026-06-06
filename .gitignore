@@ -1,0 +1,14 @@
+node_modules/
+.gradle/
+build/
+*.keystore
+local.properties
+.DS_Store
+.env
+android/.gradle
+android/app/build
+ios/Pods
+ios/build
+*.orig.*
+yarn-error.log
+.bundle/
